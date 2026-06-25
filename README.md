@@ -24,7 +24,7 @@ Through this analysis, I identified actionable opportunities for brand optimizat
 * **Inventory Optimization:** By pinpointing high-value items with frequent stockouts, the analysis provides a clear target list for replenishment to recover unrealized revenue.
 * **Brand Performance Mapping:** The visual analysis effectively segments brands into those requiring urgent stock intervention versus those performing optimally, providing a data-driven foundation for procurement strategies.
 
-# _________________________________________________________________ #
+# _____________________________________________________________ #
 # project:2  Customer Segmentation & Marketing Strategy Analysis
 
 This project involved performing an end-to-end data analytics pipeline to derive actionable marketing insights from consumer data.
